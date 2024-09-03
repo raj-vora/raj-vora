@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1589F0&multiline=false&random=false&width=450&height=40&lines=Hi+👋+I'm+Raj+Vora)](https://git.io/typing-svg)
+<div style="text-align: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=1589F0&multiline=false&random=false&width=450&height=40&lines=Hi+👋+I'm+Raj+Vora" alt="Typing SVG" />
+</div>
 <h3 align="center">I build things for the mobile and web.</h3>
 
 <h3>MS CS Graduate '24 | Web Developer | Flutter Developer | ex-media.net</h3>
