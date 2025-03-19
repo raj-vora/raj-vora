@@ -4,19 +4,19 @@
 
 <h3>MS CS Graduate '24 | Web Developer | Flutter Developer | ex-media.net</h3>
 
-- 🔭 I’m currently working on [URL Shortner](https://github.com/raj-vora/url_shortner)
+- 🔭 I’m currently working on [URL Shortner](https://url.rajvora.tech)
 
 - 🌱 I’m currently learning **Flutter, Certified in Cybersecurity, Javascript Essentials**
 
-- 🤝 I’m looking for help with [getting a job](https://raj-vora.github.io/assets/Raj%20Vora%20-%20UF.pdf)
+- 🤝 I’m looking for help with [getting a job](https://url.rajvora.tech/resume)
 
-- 👨‍💻 All of my projects are available at [https://github.com/raj-vora](https://github.com/raj-vora)
+- 👨‍💻 All of my projects are available at [https://github.com/raj-vora](https://url.rajvora.tech/github)
 
 - 💬 Ask me about **Flutter, react, mobile app development, freelancing**
 
 - 📫 How to reach me **rajvora1998@gmail.com**
 
-- 📄 Know about my experiences [raj-vora.github.io](https://raj-vora.github.io/)
+- 📄 Know about my experiences [rajvora.tech](https://rajvora.tech/)
 
 - ⚡ Fun fact **I cook up some great stories and even better food**
 
