@@ -2,11 +2,11 @@
 
 <h3>I build things for the mobile and web.</h3>
 
-<h3>MS CS Graduate '24 | Web Developer | Flutter Developer | ex-media.net</h3>
+<h3>MS CS Graduate '24 @University of Florida | Web Developer | Flutter Developer | ex-media.net</h3>
 
-- 🔭 I’m currently working on [URL Shortner](https://url.rajvora.tech)
+- 🔭 I’m currently working on [MeetScribe](https://github.com/raj-vora/meetscribe)
 
-- 🌱 I’m currently learning **Flutter, Certified in Cybersecurity, Javascript Essentials**
+- 🌱 I’m currently learning **PowerBI, Tableau, Snowflake**
 
 - 🤝 I’m looking for help with [getting a job](https://url.rajvora.tech/resume)
 
